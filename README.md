@@ -119,7 +119,7 @@ Segundo, a Taylor Swift por ser mi terapeuta y compañía, especialmente en los 
 
 Tercero, a mis compañeros de la Cohorte 10, por apoyarme durante todo el drama (ustedes saben de qué hablo), los tqm.
 
-Por ultimo, pero no menos importante, a Ariel, Mirta, Ángel, Nelson y Juan David, gracias por todo su apoyo, por apreciar mis opiniones y dejar que me disperse un rato por las noches mientras les ayudo. 
+Por último, pero no menos importante, a Ariel, Mirta, Ángel, Nelson y Juan David, gracias por todo su apoyo, por apreciar mis opiniones y dejar que me disperse un rato por las noches mientras les ayudo. 
 
 <div align="center">
   
