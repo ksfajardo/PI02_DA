@@ -1,6 +1,6 @@
 ![header](https://github.com/ksfajardo/PI02_DA/blob/main/Encabezado.gif)
 
-## Indice:
+## Indice
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Tabla de contenido</summary>
@@ -107,5 +107,18 @@ Links de acceso para descarga del dashboard:
 Aquí esta mi Linkedin si te quieres poner en contacto conmigo: </br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-fajardo-3b3020175/)
+
+</div>
+
+## Agradecimientos
+Aquí nombraré a algunas personas a las que quiero agradecer por el apoyo incondicional que me dieron durante el desarrollo de este proyecto:
+Primero, a William por aguantarse todo el drama que trajo mi primer proyecto y apoyarme en en el drama de este, incluso el día de su cumpleaños. 
+Segundo, a Taylor Swift por ser mi terapeuta y compañía, especialmente en los momentos díficiles y mis trasnochadas.
+Tercero, a mis compañeros de la Cohorte 10, por apoyarme durante todo el drama (ustedes saben de qué hablo), los tqm.
+Y por ultimo pero no menos importante, a Ariel, Mirta, Ángel, Nelson y Juan David, gracias por todo su apoyo, por apreciar mis opiniones y dejar que me disperse un rato por las noches mientras les ayudo. 
+
+<div align="center">
+  
+<img src="https://github.com/ksfajardo/PI02_DA/blob/main/hearttaylor.gif" width="200" height="250">
 
 </div>
