@@ -113,11 +113,11 @@ Aquí esta mi Linkedin si te quieres poner en contacto conmigo: </br>
 ## Agradecimientos
 Aquí nombraré a algunas personas a las que quiero agradecer por el apoyo incondicional que me dieron durante el desarrollo de este proyecto:
 
-Primero, a William por aguantarse todo el drama que trajo mi primer proyecto y apoyarme en en el drama de este, incluso el día de su cumpleaños.
+Primero, a William por apoyarme durante todo este proceso.
 
 Segundo, a Taylor Swift por ser mi terapeuta y compañía, especialmente en los momentos díficiles y mis trasnochadas.
 
-Tercero, a mis compañeros de la Cohorte 10, por apoyarme durante todo el drama (ustedes saben de qué hablo), los tqm.
+Tercero, a mis compañeros de la Cohorte 10, los tqm.
 
 Por último, pero no menos importante, a Ariel, Mirta, Ángel, Nelson y Juan David, gracias por todo su apoyo, por apreciar mis opiniones y dejar que me disperse un rato por las noches mientras les ayudo. 
 
